@@ -1,2 +1,2 @@
 # kommandocentralen.github.io
-this is a test
+This is a test page.
