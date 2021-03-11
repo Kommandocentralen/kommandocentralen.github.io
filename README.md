@@ -1,2 +1,2 @@
 # kommandocentralen.github.io
-This is a test page.
+This is my repository for learning front-end development.
